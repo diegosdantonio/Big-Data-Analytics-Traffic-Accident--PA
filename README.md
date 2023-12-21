@@ -34,8 +34,8 @@ Independent variables
 
 The grid representation
 
-![Drag Racing](figures\pa_traffic_accidents_map_all.png)
-![Drag Racing](figures\pa_traffic_accidents_map_2019_10.png)
-![Drag Racing](figures\pa_traffic_accidents_map_2020_10.png)
+![PA_grid_1](figures\pa_traffic_accidents_map_all.png)
+![Drag PA_grid_2](figures\pa_traffic_accidents_map_2019_10.png)
+![Drag PA_grid_3](figures\pa_traffic_accidents_map_2020_10.png)
 
 
