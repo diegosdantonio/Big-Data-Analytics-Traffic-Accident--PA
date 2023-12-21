@@ -16,7 +16,7 @@ fined dataset. Visual representations of these predicted hotspots will be
 created using geospatial tools to comprehend the spatial distribution of
 accidents.
 
-![](figures\pa_traffic_accidents_50.gif)
+![](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/animation.gif)
 
 
 Dependent variable 
@@ -34,8 +34,8 @@ Independent variables
 
 The grid representation
 
-![PA_grid_1](figures\pa_traffic_accidents_map_all.png)
-![Drag PA_grid_2](figures\pa_traffic_accidents_map_2019_10.png)
-![Drag PA_grid_3](figures\pa_traffic_accidents_map_2020_10.png)
+![PA_grid_1](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/pa_traffic_accidents_map_all.png)
+![Drag PA_grid_1](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/pa_traffic_accidents_map_2019_10.png)
+![Drag PA_grid_3](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/pa_traffic_accidents_map_2020_10.png)
 
 
