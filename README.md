@@ -16,7 +16,7 @@ fined dataset. Visual representations of these predicted hotspots will be
 created using geospatial tools to comprehend the spatial distribution of
 accidents.
 
-![](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/animation.gif)
+![](https://github.com/diegosdantonio/Big-Data-Analytics-Traffic-Accident--PA/blob/main/figures/pa_traffic_accidents_50.gif)
 
 
 Dependent variable 
